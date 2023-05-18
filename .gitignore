@@ -1,0 +1,12 @@
+venv
+__pycache__
+# db.sqlite3
+documents
+local.py
+media/
+.sqlite3
+.history/
+.env
+env
+.code-workspace
+.vscode

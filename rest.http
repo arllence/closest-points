@@ -1,0 +1,9 @@
+# POST http://localhost:8000/api/closest-points/
+# Content-Type: application/json
+
+# {
+#     "points":"2,1;3,2;1,1"
+# }
+
+
+GET http://localhost:8000/api/points/1
