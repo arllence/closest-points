@@ -6,11 +6,11 @@
 
 ## Admin Panel
 - python3 manage.py createsuperuser
-- visit <url>:<port>/admin
+- visit url:port/admin
 
 ## Test APIs
-- [POST] Test & Save Points: <url>:<port>/api/closest-points/
-- [GET] Saved Points: <url>:<port>/api/points/<int:point_id>/
+- [POST] Test & Save Points: url:port/api/closest-points/
+- [GET] Saved Points: url:port/api/points/int:point_id/
 
 
 ~  bobkings ~
